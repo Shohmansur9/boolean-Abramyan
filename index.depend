@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1712480294 source:c:\users\admin\desktop\olimpics\bool\index\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<algorithm>
+	<cmath>
+
